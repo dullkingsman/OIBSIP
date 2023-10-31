@@ -1,0 +1,3 @@
+[submodule "projects/stopwatch"]
+	path = projects/stopwatch
+	url = git@github.com:dullkingsman/stopwatch.git
