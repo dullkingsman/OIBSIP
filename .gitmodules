@@ -1,3 +1,6 @@
 [submodule "projects/stopwatch"]
 	path = projects/stopwatch
 	url = git@github.com:dullkingsman/stopwatch.git
+[submodule "projects/quizme"]
+	path = projects/quizme
+	url = git@github.com:dullkingsman/quizme.git
